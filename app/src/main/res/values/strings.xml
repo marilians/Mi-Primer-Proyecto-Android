@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Primera App</string>
+    <string name="app_title">Bienvenido</string>
+    <string name="app_textapp">Venezuela en mano de Dios</string>
+    <string name="app_textbutton">Entrar</string>
+    <string name="app_descImage">Imagen de fondo</string>
+</resources>

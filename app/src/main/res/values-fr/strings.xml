@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ma première App</string>
+    <string name="app_title">Bienvenue</string>
+    <string name="app_textapp">Venezuela est entre les mains de Dieu</string>
+    <string name="app_textbutton">Aceppter</string>
+    <string name="app_descImage">image de fond</string>
+</resources>

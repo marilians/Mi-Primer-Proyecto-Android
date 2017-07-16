@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine erste App</string>
+    <string name="app_title">willkommen</string>
+    <string name="app_textapp">Venezuela in Gottes Hand</string>
+    <string name="app_textbutton">Eingeben</string>
+    <string name="app_descImage">Hintergrundbild</string>
+</resources>
